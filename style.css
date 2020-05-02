@@ -1,0 +1,472 @@
+*{
+    text-transform:capitalize ;
+    scroll-behavior: smooth;
+}
+.align{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    padding-top: 12px;
+    margin-bottom: 15px ;
+}
+.color{
+    background-color: rgb(47, 47, 211)
+}
+.nav123{
+    position: sticky;
+}
+i{
+    width: 20px;
+}
+.aligh2{
+    padding-top: 10px;
+    text-align: left;
+    font-size: 12px;
+    text-align: center;
+    
+}
+.aligh3{
+    padding-top: 10px;
+    text-align: center;
+    
+}
+
+i{
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+.spanme:hover{
+    background-color: rgb(0, 59, 251);
+    transition: 0.5s;
+}
+.spanme{
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 1px;
+    padding-right: 15px;
+}
+.button{
+    color: gray;
+    text-transform: capitalize;
+    padding: 3px;
+    padding-right:10px ;
+    padding-left:10px ;
+}
+
+li{
+    text-align: center;
+    padding-right:7px ;
+    padding-left: 7px;
+    border-radius: 25px;
+}
+.vector{
+    padding-bottom: 10px;
+}
+img{
+    width: 200px;
+}
+li:hover{
+   background-color:  rgb(47, 47, 211);
+   transition: 1s;
+}
+li:focus{
+    background-color:  rgb(47, 47, 211);
+}
+.color2{
+    background-color: white;
+}
+.anchor{
+    color: black;
+    border-radius: 25px;
+}
+.anchor:hover{
+    color: white;
+}
+li.intro{
+    padding-top: 6px ;
+    padding-bottom: 6px;
+    color: gray;
+    font-size: 14px;
+    border-radius: 0px;
+}
+li.intro:hover{
+    background-color:  rgb(47, 47, 211);
+    color: white;
+    transition: 0s;
+
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+li a{
+    font-size: 14px;
+}
+img#yehkiahe{
+    max-width: 100%;
+    min-width: 100%;
+    max-height: 530px;
+    min-height: 50px;
+}
+.news{
+        color: white;
+        margin-top: 3px;
+        font-size: 12px;
+}
+.row33{
+    margin-top: 10px;
+    background-color:rgb(47, 47, 211) ;
+    height: 30px;
+    
+}
+.row44{
+    margin-top: 40px;
+}
+.class44{
+    text-align: center;
+    font-size: 35px;
+    list-style: none;
+}
+.color100{
+    color:rgb(47, 47, 211) ;
+}
+.color200{
+    color: rgb(122, 160, 66) ;
+}
+p img.image100{
+    width: 50px;
+    height: 50px;
+}
+p.textalign{
+    text-align: justify;
+    color: gray;
+    font-size: 17px;
+    padding-top: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rowhe{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-top: 120px;
+    background-color:rgb(47, 47, 211) ;
+}
+
+p.para1{
+    text-align: center;
+    margin-top: 30px;
+}
+.crop{
+    font-size: 50px;
+    margin-right: 40px;
+}
+.para2{
+    font-size: 65px;
+    color: white;
+}
+.para3{
+    margin-top: 15px;
+    font-size: 17px;
+    color: white;
+}
+.bold3{
+    color: rgb(37, 245, 0);
+    font-size: 18px;
+}
+.crop2{
+    font-size: 50px;
+    margin-right: 50px;
+}
+.crop3{
+    font-size: 50px;
+    margin-right: 50px;
+}
+.crop4{
+    font-size: 50px;
+    margin-right: 50px;
+}
+.para31{
+    font-size: 19px;
+    color: white;
+}
+.rowmain{
+    margin-top: 100px;
+}
+.colmain{
+    font-size: 40px;
+}
+.spanmain1{
+    color: rgb(47, 47, 211);
+}
+.spanmain2{
+    color: rgb(62, 134, 40);
+}
+img.font{
+    margin-top: 15px;
+    width: 60px;
+    height: 60px;
+}
+.rowpre{
+    margin-top: 60px;
+}
+/* .cl4{
+    border: 2px solid black;
+} */
+.cl5{
+    box-shadow: 0px 10px 20px rgb(95, 94, 94);
+    border-radius: 15px;
+}
+.bccolor{
+    background-color: black;
+    width: 70px;
+    border-radius: 10px;
+}
+.bccolor2{
+    background-color: black;
+    width: 80px;
+    border-radius: 10px;
+}
+.fons{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 50px;
+}
+.tcenter{
+    text-align: center;
+    color:rgb(47, 47, 211) ;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.wor1{
+    margin-top: 100px;
+}
+.wor2{
+    color: rgb(47, 47, 211);
+    font-size: 25px;
+    font-weight: bold;
+}
+.wor4{
+    box-shadow: 5px 5px 5px rgb(194, 191, 191);
+    margin-right: 40px;
+    margin-bottom: 40px;
+    border: 1px solid rgb(214, 211, 211);
+    border-radius: 10px;
+}
+.high{
+    background-color: black;
+    font-size: 30px;
+    width: 50px;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 16px;
+}
+.high1{
+    background-color: black;
+    font-size: 30px;
+    width: 50px;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-left: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.high01{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: black;
+    font-size: 30px;
+    width: 40px;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-left: 21px;
+}
+.high0{
+    margin-top: 20px;
+    background-color: black;
+    font-size: 30px;
+    width: 60px;
+    border-radius: 10px;
+    margin-left: 12px;
+    margin-right: 18px;
+    margin-bottom: 20px;
+}
+/* .high2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+} */
+.high2{
+    font-size: 20px;
+    font-weight: bold;
+    color:rgb(47, 47, 211) ;
+}
+.high3{
+    font-size: 20px;
+    font-weight: bold;
+    color:rgb(47, 47, 211) ;
+    margin-right: 50px;
+}
+.row8{
+    margin-top: 60px;
+}
+.mtop{
+    margin-top: 50px;
+}
+.mtop1{
+    margin-top: 15px;
+}
+.konsa{
+    color:rgb(47, 47, 211) ;
+}
+.konsa1{
+    color:green ;
+}
+.fontsxi{
+    font-size: 40px;
+}
+.whsie{
+    width: 50px;
+    height: 50px;
+}
+.burger{
+}
+.burger1{
+    
+    margin-right: 1px;
+    margin-left: auto;
+}
+.burger2{
+    margin-right: 1px;
+    margin-left: 1px;
+}
+.burger3{
+    margin-right: 1px;
+    margin-left: 1px;
+}
+.burger4{
+    margin-right: 1px;
+    margin-left: 1px;
+}
+.burger5{
+    margin-left: 1px;
+    margin-right: auto;
+}
+.align0123{
+    width: 209px;
+    height: 150px;
+}
+.pendu{
+    margin-top: 50px;
+}
+.focolor{
+    background-color: rgb(46, 45, 45);
+    color: rgb(190, 189, 189);
+}
+.coloho{
+    padding-top: 50px;
+    font-size: 12px;
+    padding-right: 100px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    
+}
+.boradar{
+    margin-bottom: 0px;
+}
+.highlight1{
+    margin-left: 50px;
+    padding-top: 25px;
+    color: white;
+}
+.highlight2{
+    margin-left: 50px;
+    padding-top: 25px;
+    color: white;
+}
+.colorblue{
+    color: green;
+}
+.colorgray{
+    color: gray;
+}
+.mtopbottom{
+    margin-top: 200px;
+    
+}
+.imborder1{
+    width: 30px;
+    padding-left: 11px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 30px;
+    background-color: blue;
+}
+.imborder2{
+    margin-bottom: 20px;
+    width: 30px;
+    padding-left: 8px;
+    padding-right: 1px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 30px;
+    background-color: blue;
+}
+.imborder3{
+    padding-left: 10px;
+    width: 33px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 30px;
+    background-color: blue;
+}
+.imborder4{
+    padding-left: 8px;
+    width: 33px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 30px;
+    background-color: blue;
+}
+.imborder1:hover{
+    background-color: rgb(6, 6, 136);
+    transition: 0.5s;
+}
+.imborder2:hover{
+    background-color: rgb(6, 6, 136);
+    transition: 0.5s;
+}
+.imborder3:hover{
+    background-color: rgb(6, 6, 136);
+    transition: 0.5s;
+}
+.imborder4:hover{
+    background-color: rgb(6, 6, 136);
+    transition: 0.5s;
+}
+.prlr{
+    margin-right: 15px;
+    color: green;
+}
+.gototop{
+    background-color: #0004;
+    width: 60px;
+    font-size: 40px;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    cursor: pointer;
+}
+.welfare{
+    margin-top: 0px;
+    background-color: rgb(47, 47, 211);
+    color: white;
+    font-size: 12px;
+    line-height: 60px;
+}
+.pdmg{
+    margin-left: 55px;
+    margin-bottom: 0px;
+}
